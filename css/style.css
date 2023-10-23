@@ -3,8 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-
 /* navbar */
 header .navbar{
     display: flex;
@@ -39,23 +37,24 @@ header .navbar .navbar-nav a .nav-item{
 header.navbar .button{
     margin: 15px;
     display: flex;
-    
 }
 header .navbar .button .btn-login{
     background-color: #FEA82F;
     border-radius: 10px;
     border: 2px solid #FEA82F;
-    padding: 10px 25px;
+    padding: 8px 25px;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 400;
+    color: black;
 }
 header .navbar .button .btn-signup{
     background-color: transparent;
     border-radius: 10px;
     border: 2px solid #FEA82F;
-    padding: 10px 25px;
+    padding: 8px 25px;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 400;
+    color: black;
 }
 
 /* header */
